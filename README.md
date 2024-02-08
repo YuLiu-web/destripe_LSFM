@@ -1,1 +1,1 @@
-# destripe in pytorch
+# DeStripe in pytorch
