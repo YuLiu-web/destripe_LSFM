@@ -1,1 +1,1 @@
-# destripeLSFM
+# destripe in pytorch
